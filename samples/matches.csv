@@ -1,0 +1,10 @@
+match,team,auto,teleop,endgame,penalties,notes
+1,8421,18,42,20,0,consistent cycles
+1,7310,12,35,25,5,strong endgame
+1,5190,22,31,10,0,fast autonomous
+2,8421,20,39,18,0,clean driving
+2,7310,15,37,25,0,good climb
+2,5190,18,28,12,10,control issues
+3,6044,10,45,15,0,excellent driver
+3,8421,16,44,20,0,stable all match
+3,6044,12,47,18,5,minor penalty
